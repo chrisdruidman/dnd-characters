@@ -36,7 +36,6 @@
 - Attack Bonus: **+6** (INT +3 + Proficiency +3)  
 - Damage: **1d6 + 3** (Bludgeoning, Piercing, or Slashing; magic)  
 - *Summary:* This uses Intelligence instead of Strength for attack and damage rolls, representing chemically boosted strikes. Identical in principle to the Battle Smith Artificer’s “Battle Ready” feature, but applied to Alter Self’s natural weapons for theme. Boosts hit chance and damage compared to STR-based attacks.
- 
 
 ---
 
@@ -124,10 +123,6 @@
 - +1 Weapon (e.g. "Injector Staff")  
 - +1 Shield or other common/uncommon item per choice and DM approval  
 
-**Notes:**  
-- You learn 4 plans at level 2 and can replace one when you gain each Artificer level.  
-- At the end of each long rest, you can create up to 2 items, each from a different plan you know.
-
 ---
 
 ## Experimental Elixirs (Common Priorities)
@@ -135,13 +130,56 @@
 2. **Swiftness** (speed)  
 3. **Boldness** (accuracy)  
 
-**Mutation Backlash** (for *Alter Self* only — roll when effect ends or post-combat):  
-1. Green glow (1h)  
-2. Tremors (10m)  
-3. Manic laughter (1h)  
-4. Dilated pupils (10m)  
-5. Minor chemical burn  
-6. Stable — optional +1 attack until end of next turn or 2 temp HP  
+---
+
+## Mutations
+
+Pallabar’s alchemical tinkering can warp his form—intentionally through *Alter Self (Natural Weapons)* or chaotically via mutation backlash.
+
+### 1. Unstable Alter Self Mutations (1d8)
+When casting *Alter Self (Natural Weapons)*, roll 1d8 for mutation form:
+
+| d8 | Mutation | Type | Description |
+|----|----------|------|-------------|
+| 1 | Glass-Edge Digits | Claws (Slashing) | Fingernails become translucent, razor-sharp glass shards. |
+| 2 | Rotary Bone Saws | Claws (Slashing) | Fingertips sprout spinning keratin saw-blades. |
+| 3 | Vial-Jaw Injector | Fangs (Piercing) | Canines elongate into hollow syringes glowing with alchemical fluid. |
+| 4 | Crystal Drill Fangs | Fangs (Piercing) | Spiral crystal fangs vibrate like miniature drills. |
+| 5 | Copper Coil Antlers | Horns (Piercing) | Twisted copper tubing horns vent puffs of steam on contact. |
+| 6 | Volcanic Spikes | Horns (Piercing) | Basalt horns crack with glowing magma veins, occasionally sparking. |
+| 7 | Brass-Tipped Stompers | Hooves (Bludgeoning) | Hoof-caps of polished brass ring like muted bells on impact. |
+| 8 | Geyser Steps | Hooves (Bludgeoning) | Mineral-packed hooves release hissing steam bursts with each stomp. |
+
+### 2. Side-Effects (1d6)
+After rolling mutation, roll 1d6 to add a harmless sensory quirk:
+
+| d6 | Side Effect |
+|----|-------------|
+| 1 | **Aromatic Vapour** – Releases a distinctive scent (e.g., sulfur, cinnamon). |
+| 2 | **Luminescent Glow** – Glows faintly, casting dim light in a 5-ft radius. |
+| 3 | **Fizzling Residue** – Harmless alchemical foam drips and vanishes. |
+| 4 | **Chromatic Shimmer** – Surface shifts colours like oil on water. |
+| 5 | **Audible Ticking** – A soft *tick-tick* like clockwork echoes. |
+| 6 | **Spore Cloud** – Harmless spores puff out on solid impact. |
+
+### 3. Mutation Backlash (1d6)
+When *Alter Self* ends or after combat, roll for uncontrolled mutation effects:
+
+| d6 | Backlash Effect |
+|----|-----------------|
+| 1 | Green glow (1 h) |
+| 2 | Tremors (10 min) |
+| 3 | Manic laughter (1 h) |
+| 4 | Dilated pupils (10 min) |
+| 5 | Minor chemical burn |
+| 6 | Stable — optional +1 attack until end of next turn **or** 2 temp HP |
+
+### 4. Instability Mechanic (Optional)
+At the **end of each of Pallabar’s turns**:
+- Roll 1d6:
+  - **1–2** → Mutation destabilises: reroll on both the *Mutations* and *Side-Effects* tables.
+  - **3–6** → Mutation holds until the start of his next turn.
+- Should a destabilisation occur mid-combat, the DM may also allow a *Mutation Backlash* roll for added chaos.
 
 ---
 
