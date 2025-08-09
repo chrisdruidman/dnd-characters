@@ -35,6 +35,8 @@
 **DM-Ruled (INT-based, alchemical enhancement)**  
 - Attack Bonus: **+6** (INT +3 + Proficiency +3)  
 - Damage: **1d6 + 3** (Bludgeoning, Piercing, or Slashing; magic)  
+- *Summary:* This uses Intelligence instead of Strength for attack and damage rolls, representing chemically boosted strikes. Identical in principle to the Battle Smith Artificer’s “Battle Ready” feature, but applied to Alter Self’s natural weapons for theme. Boosts hit chance and damage compared to STR-based attacks.
+ 
 
 ---
 
